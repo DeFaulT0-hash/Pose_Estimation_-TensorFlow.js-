@@ -4,13 +4,18 @@ Also has a face_identification module. (Check out)
 
 Before using the code download the dependencies :
 
-For the curl counter(main_pose.py) module.
- 1. pip install opencv-python.
- 2. pip install mediapipe.
- 3. pip install numpy.
+## For the curl counter(main_pose.py) module.
 
-For the face_recognition(fdetection.py) module.
- 1. pip install opencv-python.
- 2. pip install mediapipe.
- 3. pip install numpy.
- 4. pip install face_recognition.
+```bash
+ pip install opencv-python.
+ pip install mediapipe.
+ pip install numpy.
+```
+
+## For the face_recognition(fdetection.py) module.
+```bash 
+ pip install opencv-python.
+ pip install mediapipe.
+ pip install numpy.
+ pip install face_recognition.
+```
